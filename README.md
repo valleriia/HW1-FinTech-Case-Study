@@ -3,7 +3,12 @@
 
 ## Overview and Origin
 
-* Name of company
+Square, Inc. is an American financial services, merchant services aggregator, and mobile payment company based in San Francisco, California. The company markets software and hardware payments products and has expanded into small business services. The company was founded in 2009 by Jack Dorsey and Jim McKelvey and launched its first app and service in 2010. It has been traded as a public company on the New York Stock Exchange since November 2015 with the ticker symbol SQ.
+
+Square, Inc. provides, together with its subsidiaries, payment and point-of-sale solutions in the United States and internationally. 
+Square, Inc. revolutionized payments in 2009 with Square Reader, making it possible for anyone to accept card payments using a smartphone or tablet. Today, they build tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in-person, manage their business, and access financing. And individuals use Cash App to spend, send, store, and invest money. Square has offices in the United States, Canada, Japan, Australia, Ireland, and the UK.
+
+The company's commerce ecosystem includes point-of-sale software and hardware that offers sellers to payment and point-of-sale solutions. It provides hardware products, including Magstripe reader, which enables swiped transactions of magnetic stripe cards; Contactless and chip reader that accepts Europay, MasterCard, and Visa (EMV) chip cards and Near Field Communication payments; Square Stand, which enables an iPad to be used as a payment terminal or full point of sale solution; Square Register that combines its hardware, point-of-sale software, and payments technology; Square Terminal, a portable payments device that replaces keypad terminals, which accepts various payment types, such as tap, dip, and swipe, as well as prints receipts; and managed payments solutions. The company also offers various software products, including Square Point of Sale; Square Virtual Terminal; Square Appointments; Square for Retail; Square for Restaurants; Square Invoices, Square Online Store; Square Loyalty, Marketing, and Gift Cards; and Square Dashboard. In addition, it offers developer platform, which includes application programming interfaces and software development kits. Further, it provides managed payments, instant transfer, Square Card, Square Capital, and payroll. Additionally, it provides Cash App, which enables to send, spend, and store money; and Weebly that offers customers website hosting and domain name registration solutions. 
 
 * When was the company incorporated?
 
