@@ -1,5 +1,5 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
-# TITLE
+# Square, Inc
 
 ## Overview and Origin
 
