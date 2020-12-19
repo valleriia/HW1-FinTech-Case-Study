@@ -93,22 +93,35 @@ It’s hard to remember this now, but there was no iPad before 2010. The tablet 
 
 PayPal may be the best-known of these services, but it’s certainly not the only one. Google reorganized Android Pay and Google Wallet into a single service called Google Pay. Then there’s Venmo, which has skyrocketed in popularity.
 
-#PayPal
+##PayPal
+
+![](4.png)
+
 As previously mentioned, PayPal is perhaps the best known of these services — though that has been changing in recent years. PayPal has long been the go-to for online shopping, and the fact that it can be used to transfer money between friends is simply a bonus.
 PayPal’s interface is extremely easy to use, largely thanks to a major redesign. Simply open up your PayPal account, press the “send money” button, and follow the instructions — it only takes a few seconds to send money. The PayPal.me initiative has made sending money even easier. If you have your friend’s PayPal.me link, simply follow the link and enter how much you want to pay them.
 What PayPal has going against it, however, isn’t related to its ease of use. Out of the five services, PayPal is the most expensive, if you don’t want to connect the service to your bank account. Now, we would highly recommend connecting it to your bank account anyway, as it makes things a lot easier if you happen to lose your debit or credit card or when you get a new one. However, if you choose not to, PayPal will be one of the most expensive services for you. Not only does it charge a 2.9% fee for money sent from a debit or credit card, but it also charges an extra 30 cents on top of that.
 One advantage is that PayPal allows the largest transactions of the bunch, tied with Apple Pay Cash and Google Pay. Using PayPal, you can transfer up to a hefty $10,000. Most people won’t need that — but it’s nice to have in case you do.
-Google Pay
+
+##Google Pay
+
+![](5.png)
+
 Google Pay is one of the cheapest services on the list — there are no fees to use debit cards or make bank transfers, though you will pay a 2.9% fee for credit cards. It can transfer as much money as PayPal, with the maximum amount per transaction set at $10,000.
 What really sets Google Pay apart from the rest, however, is its integration with other Google services. In Gmail, for instance, you can request money simply by pressing the little dollar sign in the toolbar under a message. You can even send money through Android Messages, the default texting service on most Android phones, and it will show up in Google Pay. If you have a Google Home smart speaker, you can ask it to send over money to a friend through Google Pay. If you choose to use the actual Google Pay app instead, sending money is as simple as pressing on the option and entering your recipient’s email address or phone number. You can also use your fingerprint sensor or Face ID to unlock the app.  Transferring money into your bank account could take up to three days, but it’s instant when you’re sending it to a debit card.
 
-#Venmo
+##Venmo
+
+![](6.png)
+
 Venmo has grown a lot more popular over the past few years, becoming the preferred way for many people to transfer cash to their friends. In fact, Venmo has become a verb — “Venmo me!” After creating your account, you’ll be asked to add people to your friends list, which makes it easier to transfer money the next time you need to do so.
 There are a few things to keep in mind when using Venmo, however. For example, the team behind it has tried to make the service highly social, which may frustrate some. When you send money, you’ll have the option to make the transaction public, and while you most likely don’t want or need to do this, you’ll have to be careful to not accidentally select the wrong option.
 Like other services, when someone sends you money, it sits in your Venmo account — it can be sent to others or transferred to your bank account by “checking out.” It’s free to use Venmo with a debit card. It will still cost you 2.9% to use a credit card, but if you’re not too fond of linking a service to your bank account, it might be nice for you to not have to pay a fee for each transaction. Not only that, but Venmo says that money will be transferred to your bank account within one business day, which is pretty quick. Venmo recently added an option to instantly send money to your debit card for 25 cents; there’s still a free option, but it’s not as fast.
 Venmo is obviously meant to be used for everyday transactions, and as such, it sets a weekly limit of just under $5,000. It’s still a lot of money, sure, but you won’t be using Venmo to send a huge amount of cash like Apple Pay Cash or PayPal.
 
-#Apple Pay Cash
+##Apple Pay Cash
+
+![](7.png)
+
 Unlike the other services on this list, you may already have Apple Pay Cash, which rolled out as part of iOS 11.2, if you have an iPhone. That means you don’t need to download another app in order to transfer money to or from fellow iPhone owners.
 One of the best things about Apple Pay Cash is that it’s well-integrated with iOS, and as long as you have set up Apple Pay with a credit or debit card, you can quickly and easily send money through the Messages app. To send or receive money, open up a thread in the Messages app, hit the Apple Pay icon on the keyboard, choose the amount, and hit the “Request” or “Pay” button.
 Fees, transfer times, and limits are pretty good with Apple Pay Cash. You’ll be able to transfer up to $10,000, and will incur a 3% fee when using a credit card. Once you have money in your account, you can transfer it to your actual bank account in one to three business days.
