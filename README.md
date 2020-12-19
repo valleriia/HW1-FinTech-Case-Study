@@ -1,6 +1,6 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
 # [Square, Inc](https://squareup.com/us/en)
- ![](robinhood-app-2.png)
+ ![](logo.png)
 
 ## Overview and Origin
 
