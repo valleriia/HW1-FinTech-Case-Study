@@ -60,12 +60,17 @@ Data Store: PostgreSQL, MySQL, Hadoop, Redis
 Languages: Ruby, Java
 Framework: Rails, Ember.js
 Cloud: On-Prem datacenter
+
+![](1.png)
+
 “We're transitioning the front end right now. The logged out portions of the site will still mostly be HTML enhanced with jQuery, but the logged in portions are being rewritten to use Ember.js.
 The backend services are written in Ruby and Java. We're moving all of our services to the JVM. We have one service (the largest and oldest) running on REE 1.8.7, but all of the newer ones are either Rails 3 apps running on JRuby or Java web services. Deploying and running on JRuby has been a surprisingly large hassle, but we're writing a lot of infrastructure to make it much easier. 
 On the Java side, we have developed our own service framework that has built in logging (Log4J), metrics (codahale/metrics), RPC (Protobuf+TCP+SSL), containerization, etc built on top of well-known Open Source tools. 
 We use Postgres, MySQL, HDFS and log files to store data, along with Redis for transient information that we're ok with losing. We're exploring some more exotic data stores, particularly as we start looking into running multiple data centers. 
 We host our own servers for security reasons. We're currently doing a lot of work around making it easier to spin up new servers and services, distribute configurations and keep everything secure.
 Of course, we also have our iOS and Android apps. I haven't worked directly on them, maybe one of the other engineers can talk more about them.” - Zach Brock, Engineering Manager @ Square
+
+![](2.png)
 
 ## Landscape:
 
