@@ -133,7 +133,14 @@ There are a few downsides to Apple Pay Cash, the main one being that it’s only
 
 ## What has been the business impact of this company so far?
 
+Square competes in the market of card payment processing for retail transaction. Its main focus is small businesses but it provides its service to anyone who needs it. The volume of this market grew from $4,441 billion in 2014 to $5,142 billion in 2017 as shown in the Nilson Report. Square is dependent on the growth of this market to increase its transaction amounts followed by an increase in the revenues from these transactions.  
+Square’s value is based on factors that are mainly dependent on the market it works in. They decided to get into a very competitive market and bring a fresh option to small businesses that couldn’t afford or understand card payment processing. Even with that idea, the business model is very dependent on the market and its growth.  Over the years, after Square started to operate, no major change has happened in this market. Square has been able to take a 1% market share that appears to have a limit of 15% if the market was distributed equally between Square and its competitors. 
+
+
 ## What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+![](8.png)
+![](9.png)
 
 ## How is your company performing relative to competitors in the same domain?
 
