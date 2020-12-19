@@ -141,6 +141,11 @@ Square’s value is based on factors that are mainly dependent on the market it 
 
 ![](8.png)
 ![](9.png)
+![](10.png)
+![](11.png)
+![](12.png)
+
+
 
 ## How is your company performing relative to competitors in the same domain?
 
