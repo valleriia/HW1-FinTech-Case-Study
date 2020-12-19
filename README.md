@@ -149,6 +149,25 @@ Square’s value is based on factors that are mainly dependent on the market it 
 
 ## How is your company performing relative to competitors in the same domain?
 
+Comparing the results to its competitors, Square Inc reported Total Revenue increase in the 3 quarter 2020 by 139.55 % year on year. 
+The sales growth was above Square Inc 's competitors average revenue growth of 12.87 %, recorded in the same quarter. 
+![](14.png)
+
+With net margin of 1.2 % company reported lower profitability than its competitors.
+![](15.png)
+
+Square Inc Net Income in the 3 quarter 2020 grew year on year by 24.21 %, slower than its competitors income growth of 35.57 %
+
+![](16.png)
+
+Due to outstanding performance in overall company, revenue grew by 139.55 % Square Inc improved its market share, to approximate 58.59 %
+*Market share is not actual measurement, only performance comparison of companies which report and operate within the same segment.
+
+![](17.png)
+![](18.png)
+
+
+
 
 ## Recommendations
 
