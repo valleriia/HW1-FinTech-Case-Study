@@ -1,6 +1,6 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
 # [Square, Inc](https://squareup.com/us/en)
- ![](logo.png)
+ ![](/image/logo.png)
 
 ## Overview and Origin
 
@@ -61,7 +61,7 @@ Languages: Ruby, Java
 Framework: Rails, Ember.js
 Cloud: On-Prem datacenter
 
-![](1.png)
+![](/image/1.png)
 
 “We're transitioning the front end right now. The logged out portions of the site will still mostly be HTML enhanced with jQuery, but the logged in portions are being rewritten to use Ember.js.
 The backend services are written in Ruby and Java. We're moving all of our services to the JVM. We have one service (the largest and oldest) running on REE 1.8.7, but all of the newer ones are either Rails 3 apps running on JRuby or Java web services. Deploying and running on JRuby has been a surprisingly large hassle, but we're writing a lot of infrastructure to make it much easier. 
@@ -70,7 +70,7 @@ We use Postgres, MySQL, HDFS and log files to store data, along with Redis for t
 We host our own servers for security reasons. We're currently doing a lot of work around making it easier to spin up new servers and services, distribute configurations and keep everything secure.
 Of course, we also have our iOS and Android apps. I haven't worked directly on them, maybe one of the other engineers can talk more about them.” - Zach Brock, Engineering Manager @ Square
 
-![](2.png)
+![](/image/2.png)
 
 ## Landscape:
 
@@ -95,7 +95,7 @@ PayPal may be the best-known of these services, but it’s certainly not the onl
 
 *PayPal*
 
-![](4.png)
+![](/image/4.png)
 
 As previously mentioned, PayPal is perhaps the best known of these services — though that has been changing in recent years. PayPal has long been the go-to for online shopping, and the fact that it can be used to transfer money between friends is simply a bonus.
 PayPal’s interface is extremely easy to use, largely thanks to a major redesign. Simply open up your PayPal account, press the “send money” button, and follow the instructions — it only takes a few seconds to send money. The PayPal.me initiative has made sending money even easier. If you have your friend’s PayPal.me link, simply follow the link and enter how much you want to pay them.
@@ -104,14 +104,14 @@ One advantage is that PayPal allows the largest transactions of the bunch, tied 
 
 *Google Pay*
 
-![](5.png)
+![](/image/5.png)
 
 Google Pay is one of the cheapest services on the list — there are no fees to use debit cards or make bank transfers, though you will pay a 2.9% fee for credit cards. It can transfer as much money as PayPal, with the maximum amount per transaction set at $10,000.
 What really sets Google Pay apart from the rest, however, is its integration with other Google services. In Gmail, for instance, you can request money simply by pressing the little dollar sign in the toolbar under a message. You can even send money through Android Messages, the default texting service on most Android phones, and it will show up in Google Pay. If you have a Google Home smart speaker, you can ask it to send over money to a friend through Google Pay. If you choose to use the actual Google Pay app instead, sending money is as simple as pressing on the option and entering your recipient’s email address or phone number. You can also use your fingerprint sensor or Face ID to unlock the app.  Transferring money into your bank account could take up to three days, but it’s instant when you’re sending it to a debit card.
 
 *Venmo*
 
-![](6.png)
+![](/image/6.png)
 
 Venmo has grown a lot more popular over the past few years, becoming the preferred way for many people to transfer cash to their friends. In fact, Venmo has become a verb — “Venmo me!” After creating your account, you’ll be asked to add people to your friends list, which makes it easier to transfer money the next time you need to do so.
 There are a few things to keep in mind when using Venmo, however. For example, the team behind it has tried to make the service highly social, which may frustrate some. When you send money, you’ll have the option to make the transaction public, and while you most likely don’t want or need to do this, you’ll have to be careful to not accidentally select the wrong option.
@@ -120,7 +120,7 @@ Venmo is obviously meant to be used for everyday transactions, and as such, it s
 
 *Apple Pay Cash*
 
-![](7.png)
+![](/image/7.png)
 
 Unlike the other services on this list, you may already have Apple Pay Cash, which rolled out as part of iOS 11.2, if you have an iPhone. That means you don’t need to download another app in order to transfer money to or from fellow iPhone owners.
 One of the best things about Apple Pay Cash is that it’s well-integrated with iOS, and as long as you have set up Apple Pay with a credit or debit card, you can quickly and easily send money through the Messages app. To send or receive money, open up a thread in the Messages app, hit the Apple Pay icon on the keyboard, choose the amount, and hit the “Request” or “Pay” button.
@@ -139,11 +139,11 @@ Square’s value is based on factors that are mainly dependent on the market it 
 
 ## What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-![](8.png)
-![](9.png)
-![](10.png)
-![](11.png)
-![](12.png)
+![](/image/8.png)
+![](/image/9.png)
+![](/image/10.png)
+![](/image/11.png)
+![](/image/12.png)
 
 
 
@@ -151,20 +151,20 @@ Square’s value is based on factors that are mainly dependent on the market it 
 
 Comparing the results to its competitors, Square Inc reported Total Revenue increase in the 3 quarter 2020 by 139.55 % year on year. 
 The sales growth was above Square Inc 's competitors average revenue growth of 12.87 %, recorded in the same quarter. 
-![](14.png)
+![](/image/14.png)
 
 With net margin of 1.2 % company reported lower profitability than its competitors.
-![](15.png)
+![](/image/15.png)
 
 Square Inc Net Income in the 3 quarter 2020 grew year on year by 24.21 %, slower than its competitors income growth of 35.57 %
 
-![](16.png)
+![](/image/16.png)
 
 Due to outstanding performance in overall company, revenue grew by 139.55 % Square Inc improved its market share, to approximate 58.59 %
 *Market share is not actual measurement, only performance comparison of companies which report and operate within the same segment.
 
-![](17.png)
-![](18.png)
+![](/image/17.png)
+![](/image/18.png)
 
 
 
