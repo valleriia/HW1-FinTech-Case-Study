@@ -29,11 +29,13 @@ The name "Square" derives from the company's square-shaped card readers.
 ## How is the company funded? How much funding have they received?
 
 Square received angel investments from Marissa Mayer, Kevin Rose, Biz Stone, Dennis Crowley, Shawn Fanning, MC Hammer, and Esther Dyson. Since then, it has raised several additional rounds of funding:
+
 Series A funding from Khosla Ventures
 Series B funding from Sequoia Capital
 Series C funding from Kleiner Perkins
 Series D funding from Citi Ventures, Rizvi Traverse Management, and Starbucks
 Series E funding from Goldman Sachs, Rizvi Traverse Management, and GIC Private Limited
+
 The company's valuation in October 2014 was $6 billion. 
 On November 19, 2015, Square had its IPO on the New York Stock Exchange with an initial valuation of $2.9 billion, down by more than half from its last valuation in October 2014 at $6 billion. Although the firm has yet to make a profit and has lost $420 million since 2012, it has decreased its losses from 44% of revenues to 16% in the six months leading up to its IPO. 
 For the fiscal year 2018, Square reported losses of US$38 million, with an annual revenue of US$3.299 billion, an increase of 49.0% over the previous fiscal cycle. Square's shares traded at over $75 per share, and its market capitalization was valued at US$32 billion in November 2018. As of July 2020, the shares traded at over $130 giving it a market cap of more than $55bn, larger than Uber and many of the other highly successful companies that emerged from the 2011-2013 cohort of highly successful Silicon Valley companies (e.g. Airbnb).
@@ -45,8 +47,7 @@ For the fiscal year 2018, Square reported losses of US$38 million, with an annua
 Before Square, any number of companies could have easily developed a similar product—but nobody did. Incredibly, not one major financial institution or commercial bank saw small business’ inability to cost-effectively accept credit card payments as the vast potential market it was. McKelvey and Dorsey could have focused on small businesses as their initial target market, such as coffee shops, florists, and bakeries.
 Instead, they chose to focus on individual entrepreneurs like McKelvey. This wasn’t a deliberately exclusionary measure. McKelvey and Dorsey smartly identified solopreneurs who lacked any means of processing card payments as the potential Square users with the greatest need for a solution. Square’s users were artisans like McKelvey, but McKelvey and Dorsey wanted to help people launch businesses, not just help proprietors who had already established their businesses.
 
-## Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+## Who is the company's intended customer?  Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 The Square story starts with addressing a widespread need with an effective solution that completely reimagines small business payments. Before Square, it was illegal for non-registered merchants to accept credit card payments. Registering was a costly and difficult process that most small business owners couldn’t afford. These business owners struggled with the reality that while most people carried plastic instead of cash, the costs and complexity of credit card processing made it impractical to accept credit cards.
 Square not only solved a lasting problem for millions of small businesses worldwide but did so in a way that forced the mainstream financial sector to reevaluate what consumers want from financial products in today’s business environment. The company was smart to emphasize the importance of design and how this affected the overall experience but was careful to avoid developing a reputation for style over substance.
