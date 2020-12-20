@@ -211,6 +211,8 @@ The next stage could be that we will no longer need to hold wallets stuffed with
 However, privacy laws in Illinois, Texas, Washington, and California (as of January 2020) and New York state's SHIELD ( as of March 2020)  will pose a serious challenge to these efforts.
 Civil liberties groups want an embargo on the technology and a precise democratic debate about the place that facial biometrics should take in our lives.
 
-
+## Resources
+- [GitHub Help](https://docs.github.com)
+- [https://squareup.com/us/en](https://squareup.com/us/en)
 
 
