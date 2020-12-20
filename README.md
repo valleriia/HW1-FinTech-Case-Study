@@ -214,5 +214,10 @@ Civil liberties groups want an embargo on the technology and a precise democrati
 ## Resources
 - [GitHub Help](https://docs.github.com)
 - [https://squareup.com](https://squareup.com)
+- [https://developer.squareup.com](https://developer.squareup.com/us/en)
+- [https://square.github.io](https://square.github.io)
+- [https://en.wikipedia.org/wiki/Square,_Inc.](https://en.wikipedia.org/wiki/Square,_Inc.)
+- [https://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm](https://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm)
+- 
 
 
