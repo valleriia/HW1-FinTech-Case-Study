@@ -1,4 +1,4 @@
-# Unit-1-Homework-Assignment-FinTech-Case-Study
+**Unit 1 Homework Assignment FinTech Case Study**
 # [Square, Inc](https://squareup.com/us/en)  <img align="right" width="410" height="190" src="/image/log.png">
 
 ## Overview and Origin
