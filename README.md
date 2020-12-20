@@ -178,6 +178,14 @@ Due to outstanding performance in overall company, revenue grew by 139.55 % Squa
 
 ## If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+With the advances in smartphone technology, many of us are now familiar with **biometric authentication**. We unlock our devices with our fingerprint, iris scan, facial recognition or voice without so much as a second thought – and this level of familiarity is swiftly expanding into the world of payment technology. According to research, mobile biometrics will authenticate $2 trillion worth of transactions (both in-store and remote) annually by 2023. Biometrics can shape the future of commerce – for example, Amazon is already making it happen (Amazon Go).
+In the future, we will also see other forms of biometrics emerge. In addition to fingerprint, voice, facial recognition and iris scanning, there are companies working on biometrics triggered embeddables, injectables or ingestibles.  Examples range far and wide, ranging from a biometric wearable tattoo with a thin silicon chip that can be inserted into the skin, to the idea of injectable chips mooted by PayPal. 
+
+<p align="center">
+  <img width="500" height="300" src="/image/20.png">
+</p>
+
+
 ## Why do you think that offering this product or service would benefit the company?
 
 ## What technologies would this additional product or service utilize?
