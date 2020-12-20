@@ -1,6 +1,5 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
-# [Square, Inc](https://squareup.com/us/en)                                                             
-<img src="/image/logo.png" width="400" height="90">
+# [Square, Inc](https://squareup.com/us/en)                                                             <img align="right" width="400" height="90" src="/image/logo.png">
 
 ## Overview and Origin
 
