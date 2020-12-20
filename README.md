@@ -92,7 +92,9 @@ PayPal may be the best-known of these services, but it’s certainly not the onl
 
 *PayPal*
 
-![](/image/4.png)
+<p align="center">
+  <img width="500" height="300" src="/image/4.png">
+</p>
 
 As previously mentioned, PayPal is perhaps the best known of these services — though that has been changing in recent years. PayPal has long been the go-to for online shopping, and the fact that it can be used to transfer money between friends is simply a bonus.
 PayPal’s interface is extremely easy to use, largely thanks to a major redesign. Simply open up your PayPal account, press the “send money” button, and follow the instructions — it only takes a few seconds to send money. The PayPal.me initiative has made sending money even easier. If you have your friend’s PayPal.me link, simply follow the link and enter how much you want to pay them.
@@ -101,14 +103,18 @@ One advantage is that PayPal allows the largest transactions of the bunch, tied 
 
 *Google Pay*
 
-![](/image/5.png)
+<p align="center">
+  <img width="500" height="300" src="/image/5.png">
+</p>
 
 Google Pay is one of the cheapest services on the list — there are no fees to use debit cards or make bank transfers, though you will pay a 2.9% fee for credit cards. It can transfer as much money as PayPal, with the maximum amount per transaction set at $10,000.
 What really sets Google Pay apart from the rest, however, is its integration with other Google services. In Gmail, for instance, you can request money simply by pressing the little dollar sign in the toolbar under a message. You can even send money through Android Messages, the default texting service on most Android phones, and it will show up in Google Pay. If you have a Google Home smart speaker, you can ask it to send over money to a friend through Google Pay. If you choose to use the actual Google Pay app instead, sending money is as simple as pressing on the option and entering your recipient’s email address or phone number. You can also use your fingerprint sensor or Face ID to unlock the app.  Transferring money into your bank account could take up to three days, but it’s instant when you’re sending it to a debit card.
 
 *Venmo*
 
-![](/image/6.png)
+<p align="center">
+  <img width="500" height="300" src="/image/6.png">
+</p>
 
 Venmo has grown a lot more popular over the past few years, becoming the preferred way for many people to transfer cash to their friends. In fact, Venmo has become a verb — “Venmo me!” After creating your account, you’ll be asked to add people to your friends list, which makes it easier to transfer money the next time you need to do so.
 There are a few things to keep in mind when using Venmo, however. For example, the team behind it has tried to make the service highly social, which may frustrate some. When you send money, you’ll have the option to make the transaction public, and while you most likely don’t want or need to do this, you’ll have to be careful to not accidentally select the wrong option.
@@ -117,7 +123,9 @@ Venmo is obviously meant to be used for everyday transactions, and as such, it s
 
 *Apple Pay Cash*
 
-![](/image/7.png)
+<p align="center">
+  <img width="500" height="300" src="/image/7.png">
+</p>
 
 Unlike the other services on this list, you may already have Apple Pay Cash, which rolled out as part of iOS 11.2, if you have an iPhone. That means you don’t need to download another app in order to transfer money to or from fellow iPhone owners.
 One of the best things about Apple Pay Cash is that it’s well-integrated with iOS, and as long as you have set up Apple Pay with a credit or debit card, you can quickly and easily send money through the Messages app. To send or receive money, open up a thread in the Messages app, hit the Apple Pay icon on the keyboard, choose the amount, and hit the “Request” or “Pay” button.
