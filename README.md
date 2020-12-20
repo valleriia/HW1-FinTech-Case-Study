@@ -60,7 +60,7 @@ Languages: Ruby, Java
 Framework: Rails, Ember.js
 Cloud: On-Prem datacenter
 
-<img src="/image/1.png" width="450" height="450">  <img src="/image/2.png" width="450" height="450">
+<img src="/image/1.png" width="300" height="300">  <img src="/image/2.png" width="300" height="300">
 
 “We're transitioning the front end right now. The logged out portions of the site will still mostly be HTML enhanced with jQuery, but the logged in portions are being rewritten to use Ember.js.
 The backend services are written in Ruby and Java. We're moving all of our services to the JVM. We have one service (the largest and oldest) running on REE 1.8.7, but all of the newer ones are either Rails 3 apps running on JRuby or Java web services. Deploying and running on JRuby has been a surprisingly large hassle, but we're writing a lot of infrastructure to make it much easier. 
