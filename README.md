@@ -90,7 +90,7 @@ It’s hard to remember this now, but there was no iPad before 2010. The tablet 
 
 PayPal may be the best-known of these services, but it’s certainly not the only one. Google reorganized Android Pay and Google Wallet into a single service called Google Pay. Then there’s Venmo, which has skyrocketed in popularity.
 
-*PayPal*
+[PayPal](https://www.paypal.com)
 
 <p align="center">
   <img width="500" height="300" src="/image/4.png">
@@ -101,7 +101,7 @@ PayPal’s interface is extremely easy to use, largely thanks to a major redesig
 What PayPal has going against it, however, isn’t related to its ease of use. Out of the five services, PayPal is the most expensive, if you don’t want to connect the service to your bank account. Now, we would highly recommend connecting it to your bank account anyway, as it makes things a lot easier if you happen to lose your debit or credit card or when you get a new one. However, if you choose not to, PayPal will be one of the most expensive services for you. Not only does it charge a 2.9% fee for money sent from a debit or credit card, but it also charges an extra 30 cents on top of that.
 One advantage is that PayPal allows the largest transactions of the bunch, tied with Apple Pay Cash and Google Pay. Using PayPal, you can transfer up to a hefty $10,000. Most people won’t need that — but it’s nice to have in case you do.
 
-*Google Pay*
+[Google Pay](https://pay.google.com)
 
 <p align="center">
   <img width="500" height="300" src="/image/5.png">
@@ -110,7 +110,7 @@ One advantage is that PayPal allows the largest transactions of the bunch, tied 
 Google Pay is one of the cheapest services on the list — there are no fees to use debit cards or make bank transfers, though you will pay a 2.9% fee for credit cards. It can transfer as much money as PayPal, with the maximum amount per transaction set at $10,000.
 What really sets Google Pay apart from the rest, however, is its integration with other Google services. In Gmail, for instance, you can request money simply by pressing the little dollar sign in the toolbar under a message. You can even send money through Android Messages, the default texting service on most Android phones, and it will show up in Google Pay. If you have a Google Home smart speaker, you can ask it to send over money to a friend through Google Pay. If you choose to use the actual Google Pay app instead, sending money is as simple as pressing on the option and entering your recipient’s email address or phone number. You can also use your fingerprint sensor or Face ID to unlock the app.  Transferring money into your bank account could take up to three days, but it’s instant when you’re sending it to a debit card.
 
-*Venmo*
+[Venmo](https://venmo.com)
 
 <p align="center">
   <img width="500" height="300" src="/image/6.png">
@@ -121,7 +121,7 @@ There are a few things to keep in mind when using Venmo, however. For example, t
 Like other services, when someone sends you money, it sits in your Venmo account — it can be sent to others or transferred to your bank account by “checking out.” It’s free to use Venmo with a debit card. It will still cost you 2.9% to use a credit card, but if you’re not too fond of linking a service to your bank account, it might be nice for you to not have to pay a fee for each transaction. Not only that, but Venmo says that money will be transferred to your bank account within one business day, which is pretty quick. Venmo recently added an option to instantly send money to your debit card for 25 cents; there’s still a free option, but it’s not as fast.
 Venmo is obviously meant to be used for everyday transactions, and as such, it sets a weekly limit of just under $5,000. It’s still a lot of money, sure, but you won’t be using Venmo to send a huge amount of cash like Apple Pay Cash or PayPal.
 
-*Apple Pay Cash*
+[Apple Pay Cash](https://www.apple.com/apple-pay/)
 
 <p align="center">
   <img width="500" height="300" src="/image/7.png">
@@ -213,6 +213,6 @@ Civil liberties groups want an embargo on the technology and a precise democrati
 
 ## Resources
 - [GitHub Help](https://docs.github.com)
-- [https://squareup.com/us/en](https://squareup.com/us/en)
+- [https://squareup.com](https://squareup.com)
 
 
