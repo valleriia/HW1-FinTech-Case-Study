@@ -182,12 +182,35 @@ With the advances in smartphone technology, many of us are now familiar with **b
 In the future, we will also see other forms of biometrics emerge. In addition to fingerprint, voice, facial recognition and iris scanning, there are companies working on biometrics triggered embeddables, injectables or ingestibles.  Examples range far and wide, ranging from a biometric wearable tattoo with a thin silicon chip that can be inserted into the skin, to the idea of injectable chips mooted by PayPal. 
 
 <p align="center">
-  <img width="500" height="300" src="/image/20.png">
+  <img width="900" height="300" src="/image/20.png">
 </p>
 
 
 ## Why do you think that offering this product or service would benefit the company?
 
+The main advantage of using biometrics is that they allow you to prove your identity using characteristics that make you unique. Since the data is “something you are,” it’s much less likely to be forgotten, stolen or forged, in contrast to using something you possess (like a document or card) or something you know (like a password or secret phrase).
+Biometrics provide a lower level of friction in payments than passwords. Using biometric authentication for payments is quick and convenient. Users don’t have to remember passwords and PINs.
+As financial services become more digital, banks and fintechs are adopting stricter identification protocols to combat fraud, increase transaction security, and enhance customer experience.
+Banking fraud is rampant: in 2018, about 60% of banks saw the total value and volume of customer fraud increase from 2017, according to a survey conducted by KPMG. The main types of growing fraud included online fraud, identity theft, and data theft. 
+As a result, biometric tech has become a strategic part of financial service security platforms, whether it be for credit cards, ATMs, or online portals. The trend is also driven by customer preference — more than 90% of consumers would rather use biometric methods than passwords, according to Mastercard.
+
+
 ## What technologies would this additional product or service utilize?
 
+Like most security solutions, biometrics are appropriate solutions for some security problems and inappropriate answers to others. In addition, biometric authentication produces technical, business, social, and legal problems. Companies using biometrics must build additional security into their systems to protect the authorization databases and understand that such systems can provide strong authentication, but not infallibility.
+Biometrics suffers from the fact that the matching algorithms cannot be compared to the hashes of passwords, as we said.
+This means that two biometric measures cannot be compared with each other without them, at some point, being "in plaintext" in the memory of the device doing the matching. 
+Therefore, biometric checks must be carried out on a trusted secure device, which means the alternatives are to have a centralized and supervised server, a trusted biometric device, or a personal security component.
+
+
 ## Why are these technologies appropriate for your solution?
+
+When it comes to the future of biometric tech, it is likely we will see biometrics moving from the now-commonplace mobile uses towards website and desktop applications. It is possible that biometrics will replace the two-factor identification method that so many security-sensitive companies opt for in their online sites, making our computer-based login a much smoother and faster experience. 
+The next stage could be that we will no longer need to hold wallets stuffed with IDs and cards, as ATMs, payment systems, and IoT devices will be able to identify us on biometrics alone to process a transaction
+
+However, privacy laws in Illinois, Texas, Washington, and California (as of January 2020) and New York state's SHIELD ( as of March 2020)  will pose a serious challenge to these efforts.
+Civil liberties groups want an embargo on the technology and a precise democratic debate about the place that facial biometrics should take in our lives.
+
+
+
+
